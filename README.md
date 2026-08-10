@@ -4,12 +4,12 @@
 
 ---
 
-## 🌍 Project Overview
+## Project Overview
 **Borders & Buildings** examines how **international relations (IR)** are expressed through architecture and spatial design. From refugee camps to embassies, checkpoints, and walls, this project highlights how governance, power, and politics are inscribed in the built environment.
 
 ---
 
-## 📖 Episodes
+## Episodes
 Episodes are published as Markdown files in the `episodes/` folder. Each one explores a specific architectural form and its IR implications.
 
 - **Episode #1: Refugee Camps / Temporary Settlements**  
@@ -19,7 +19,7 @@ Future episodes will cover topics such as embassies, border walls, and internati
 
 ---
 
-## 🏗️ Why Architecture + IR?
+## Why Architecture + IR?
 Architecture is not neutral. It reflects decisions about:
 - **[Power](ca://s?q=Power_in_architecture_and_IR)** — who controls space.  
 - **[Governance](ca://s?q=Governance_in_architecture_and_IR)** — how rules are embedded in design.  
@@ -27,14 +27,14 @@ Architecture is not neutral. It reflects decisions about:
 
 ---
 
-## 📌 How to Explore
+## How to Explore
 1. Browse episodes in the repository.  
 2. Read analyses connecting architecture to IR theory.  
 3. Reflect on how built environments shape global politics.  
 
 ---
 
-## ✨ Contribute
+## Contribute
 Contributions are welcome! Suggestions for new episodes, case studies, or resources can be shared via Issues or Pull Requests.
 
 ---
