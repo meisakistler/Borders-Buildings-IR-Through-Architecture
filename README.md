@@ -39,5 +39,5 @@ Contributions are welcome! Suggestions for new episodes, case studies, or resour
 
 ---
 
-## 📜 License
+## License
 This project is released under the MIT License. See `LICENSE` for details.
